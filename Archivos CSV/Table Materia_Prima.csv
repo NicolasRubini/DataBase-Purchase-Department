@@ -1,0 +1,21 @@
+idMateriaPrima,Nombre,UnidadMedida,CantidadStock,Precio
+1,Sulfato de Sodio,Kilogramo,5024,510.23
+2,Hipoclorito de Potasio,Kilogramo,8904,2117.42
+3,Sulfato de Manganeso,Kilogramo,5274,1710.35
+4,Dietildamida,Kilogramo,7878,2588.71
+5,Agua Oxigenada,Kilogramo,6790,4076.69
+6,Benceno,Kilogramo,6253,3444.18
+7,Anhidro acetico,Kilogramo,7623,4589.66
+8,Benzaldehido,Kilogramo,8372,4494.01
+9,Carbonato de Potasio,Kilogramo,5245,3350.4
+10,Acetico Glacial,Kilogramo,9651,2730.16
+11,Metilico,Kilogramo,8708,1514.32
+12,Alcohol Isopropilico,Kilogramo,8722,775.41
+13,Cloruro de acetilo,Kilogramo,9152,4251.24
+14,Bromobencilo,Kilogramo,8419,3880.3
+15,Tricloroetileno,Kilogramo,5290,1970.33
+16,Bicarbonato de sodio,Kilogramo,9430,4570.01
+17,Oxido de Calcio,Kilogramo,9250,4214.96
+18,Xilenos,Kilogramo,5468,4011.18
+19,Hidroxido de Sodio,Kilogramo,6683,3544.5
+20,Amoniaco,Kilogramo,7699,1910.69
